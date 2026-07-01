@@ -1,0 +1,14 @@
+,Project Result
+Assets Analyzed,10.0
+Random Portfolios,50000.0
+Parametric Monte Carlo Paths,10000.0
+Bootstrap Paths,5000.0
+Simulation Horizon Years,10.0
+Maximum-Sharpe Expected Return,0.10195647516863397
+Maximum-Sharpe Volatility,0.0897873523085432
+Maximum-Sharpe Ratio,0.9569258200961089
+Median 10-Year Terminal Wealth,253414.99536307724
+5th Percentile Terminal Wealth,168225.99398715267
+95th Percentile Terminal Wealth,381819.17432223004
+10-Year Probability of Loss,0.0
+Median Simulated Maximum Drawdown,-0.0942724832448491
